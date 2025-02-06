@@ -4,7 +4,7 @@
 Ex-Trabajador en una fábrica por 9 años hasta que he podido estudiar lo que me gusta.
 
 ### 🛠️ Tecnologías y Herramientas
-- Frontend: HTML, CSS, JavaScript, BootStrap
+- Frontend: HTML, CSS, JavaScript
 - Backend: PHP
 - Bases de datos: MySQL
 - Herramientas: Git
