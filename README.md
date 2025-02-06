@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Adrii-Dev
 
-<!--
-**Adrii-Dev/Adrii-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
+Ex-Trabajador en una fábrica por 9 años hasta que he podido estudiar lo que me gusta.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- Frontend: HTML, CSS, JavaScript, BootStrap
+- Backend: PHP
+- Bases de datos: MySQL
+- Herramientas: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mis Estadísticas en GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Adrii-Dev&show_icons=true&theme=radical)
+
+### 🌱 Actualmente estoy aprendiendo
+- Desarollo de Aplicaciones Web DAW
+
+### 💼 Proyectos Destacados
+- En proceso...
+
+### 📫 Cómo contactarme
+- Email: ibaez6adri@gmail.com
