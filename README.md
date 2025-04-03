@@ -17,9 +17,6 @@ Ex-Trabajador en una fábrica por 9 años hasta que he podido estudiar lo que me
 
 ### 📊 Mis Estadísticas en GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Adrii-Dev&show_icons=true&theme=radical)
-<div>
-  <img src="https://streak-stats.demolab.com?user=Adrii-Dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
